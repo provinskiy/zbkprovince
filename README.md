@@ -1,2 +1,0 @@
-# zbkprovince
-hwid check zbk
